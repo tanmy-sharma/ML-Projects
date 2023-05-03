@@ -1,2 +1,2 @@
 # NLP-Projects
-Deep learning projects using Natural Language Processing 
+Natural Language Processing projects
