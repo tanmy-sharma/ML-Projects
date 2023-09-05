@@ -2,10 +2,10 @@
 
 Classification projects in Natural Language Processing (NLP) play a crucial role in various applications and have significant importance for several reasons:
 
-1. Information Organization: Classification allows us to categorize and organize large volumes of textual data into meaningful groups. This helps in structuring unstructured data, making it easier to retrieve and analyze information efficiently.
+1. Information Organization: Classification allows us to categorize and organize large volumes of textual data into meaningful groups. This helps in structuring unstructured data, making it easier to retrieve and analyze information efficiently. 
 2. Sentiment Analysis: Sentiment classification is a common NLP task that helps in understanding public opinion about products, services, or events. It is invaluable for businesses to gauge customer sentiment and make data-driven decisions.
 3. Text Categorization: In news articles, research papers, and online content, classification helps in categorizing information into topics, themes, or domains. This makes it easier for users to access relevant content quickly.
-4. Spam Detection: Classification models are widely used for email filtering and identifying spam messages. This ensures that users' inboxes are not cluttered with unwanted or potentially harmful content.
+4. Spam Detection: Classification models are widely used for email filtering and identifying spam messages. This ensures that users' inboxes are not cluttered with unwanted or potentially harmful content. [News Spam Classfication (Accuracy : 99.84%)](https://github.com/tanmy-sharma/NLP-Projects/blob/main/Classification%20Projects/News%20Classification.ipynb)
 5. Language Identification: NLP models can classify text based on the language it's written in, which is essential for multilingual applications and content localization.
 6. Named Entity Recognition (NER): NER is a type of classification used to identify and categorize named entities such as names of people, organizations, locations, and dates in text. It's crucial for information extraction and knowledge graph construction.
 7. Topic Modeling: Classification helps in identifying the main topics or themes within a large collection of documents. This is valuable for content recommendation, summarization, and information retrieval.
